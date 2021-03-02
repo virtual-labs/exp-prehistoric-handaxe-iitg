@@ -27,19 +27,21 @@
         background-repeat: no-repeat;
         background-size: contain;
         height: 800px;
-        float: left;
-        width: 650px;
+        width: 640px;
         position: relative;
         float: left;
         
     }
+	#submit{
+		padding-left: 50%;
+	}
 
     #demoimg{
         /* margin-left: 30%; */
         
-        margin-left: 50px;
-        width: 650px;
-        height: 750px;
+        margin-left: 40px;
+	width: 570px;
+	height: 700px;
         float: left;
         border: 2px solid black;
     }
@@ -118,7 +120,7 @@ function checklocation()
     <div id="mainimg" ondrop="drop(event)" ondragover="allowDrop(event)">
         <div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
         <div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
-        <div>
+        <div id="submit">
             <input type="submit" name="Submit" value="Submit" id="sb" onclick="checklocation()">
         </div>
     </div>
