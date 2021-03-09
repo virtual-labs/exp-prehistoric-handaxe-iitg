@@ -109,7 +109,7 @@
     },
                           
     {
-      question: "What was the method used to remove the flute or channel flake?",  ///// Write the question inside double quotes
+      question: "2.What was the method used to remove the flute or channel flake?",  ///// Write the question inside double quotes
       answers: {
         a: "involves pressing the flake out, downwards",                  ///// Write the option 1 inside double quotes
         b: "involves pressing the flake out, upwards",                  ///// Write the option 2 inside double quotes
