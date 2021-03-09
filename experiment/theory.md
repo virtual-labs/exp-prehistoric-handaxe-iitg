@@ -1,4 +1,4 @@
-### Stone Tool Manufacture
+#### Stone Tool Manufacture
 
 Stone tools are made by removing material from a pebble or `core` until the desired shape of the core has been attained. The first flakes struck off (primary flakes) bear traces of the outer surface (cortex). Trimming flakes are then struck off to achieve the final shape, and certain edges may then be `retouched` by further removal of tiny secondary flakes.
 
@@ -29,7 +29,7 @@ Some techniques of manufacture can be inferred from traces left on the tools, an
 There are two principal approaches to assessing what decisions the knapper made: Replication and Refitting
 
 
-### Stone Tool Replication
+#### Stone Tool Replication
 
 This is a type of experimental archaeology that involves making exact copies of different types of stone tool – using only the technology available to the original makers – in order to assess the processes entailed, and the amount of time and effort required. In the past only remarkable work has done by Francois Bordes in the Old World and Donald Crabtree in New World.
 
@@ -44,7 +44,7 @@ Archaeologist can also use replication and experiment to discover whether certai
 Replication cannot usually prove conclusively which techniques were used in the past, but it does narrow the possibilities and often points to the most likely method, as in the Folsom example above. Refitting, on other hand, involves working with the original tools and demonstrates clearly the chain of actions of the knapper.
 
 
-### Refitting of Stone Tools
+#### Refitting of Stone Tools
 
 This type of work, which can be traced back to F. C. J.Spurrell at the Paleolithic site of Crayford, England, in 1880, has really come into its own efforts of Andre Leroi –Gourhan at the Megdalenian (Late Upper Paleolithic) camp of Pincevent, Paris.
 
