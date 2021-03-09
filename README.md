@@ -1,4 +1,4 @@
-## Introduction
+#### Introduction
 
 
 <b>Discipline | <b>Humanities and Social Sciences
@@ -6,7 +6,7 @@
 <b> Lab | <b> Digital Anthropology Lab
 <b> Experiment|     <b> Identification of Prehistoric handaxe
 
-### About the Experiment 
+#### About the Experiment 
 
 Reconstruction of a handaxe & identification of shape of flakes
 
@@ -16,7 +16,7 @@ Reconstruction of a handaxe & identification of shape of flakes
 <b> Email id|     <b>  santosh_biswas@iitg.ac.in
 <b> Department |  Computer Science & Engineering
 
-### Contributors List
+#### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
