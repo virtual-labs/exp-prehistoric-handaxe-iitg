@@ -100,7 +100,7 @@
         },
 
     {
-      question: "What is refitting?",  ///// Write the question inside double quotes
+      question: "2.What is refitting?",  ///// Write the question inside double quotes
       answers: {
         a: "put flakes and tool differently",                  ///// Write the option 1 inside double quotes
         b: "Put flakes and tool together",                  ///// Write the option 2 inside double quotes

@@ -98,7 +98,7 @@
         },
 
     {
-      question: "Why refitting is important in stone tools ?",  ///// Write the question inside double quotes
+      question: "2.Why refitting is important in stone tools ?",  ///// Write the question inside double quotes
       answers: {
         a: "because it allows us to follow the stages of the knapper’s craft",                  ///// Write the option 1 inside double quotes
         b: "Refitting provides a dynamic perspective on the spatial distribution of tools",                  ///// Write the option 2 inside double quotes
@@ -109,7 +109,7 @@
     },
                           
     {
-      question: "What was the method used to remove the flute or channel flake?",  ///// Write the question inside double quotes
+      question: "3.What was the method used to remove the flute or channel flake?",  ///// Write the question inside double quotes
       answers: {
         a: "involves pressing the flake out, downwards",                  ///// Write the option 1 inside double quotes
         b: "involves pressing the flake out, upwards",                  ///// Write the option 2 inside double quotes
